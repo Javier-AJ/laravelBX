@@ -1,0 +1,2 @@
+# laravelBX
+Prueba Laravel
